@@ -7,8 +7,11 @@
             background-color: brown;
             text-align: center;
         }
+        body{
+            background-image: url("/assets/image/skyblue.jpg");
+        }
         p{
-            font-size: larger; color:crimson;
+            font-size: larger; color: rgba(6, 6, 54, 0.537);
         }
         li{
             font-size: medium;
@@ -16,4 +19,8 @@
         h1{
             background-color: gray;
         }
+        #my-blue{
+            color: blue;
+        }
+        
         </style>
