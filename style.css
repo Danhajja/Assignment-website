@@ -1,0 +1,19 @@
+<style>
+        .mine{
+            font-style: italic;
+        }
+        .alfa{
+            color: white;
+            background-color: brown;
+            text-align: center;
+        }
+        p{
+            font-size: larger; color:crimson;
+        }
+        li{
+            font-size: medium;
+        }
+        h1{
+            background-color: gray;
+        }
+        </style>
